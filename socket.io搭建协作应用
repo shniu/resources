@@ -1,0 +1,29 @@
+
+-- socket.io
+
+协作应用：
+  不能出现信息不对称
+    -能够实时同步多个客户端的数据变化
+  讨论有明确的上下文
+    -能够针对特定对象更新
+  能够持续运行
+    -缓存必要数据 根据网络情况进行必要操作
+    
+    
+socket.io 服务端服务（npm  使用node.js） + socket.io.js 前端  == 接发信息
+
+前端框架  mv*  Backbone.js   
+  Model  ---  View
+  
+  
+更多：
+使用socket.io的Room和Broadcast来简化客户端同步
+通过运行多个服务器端实例提高承载能力 （github.com/teambition/socket.io-hub）
+
+
+使用YO进行框架搭建（Yoman）
+使用Requirejs进行包管理
+使用Grunt进行任务管理
+
+
+  
