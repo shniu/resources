@@ -1,0 +1,4 @@
+
+
+-- ocr 验证码
+https://github.com/tmbdev/ocropy
