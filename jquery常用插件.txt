@@ -6,3 +6,8 @@ https://github.com/ChrisWojcik/single-page-nav
 
 -- owl carousel 水平侧滑导航
 http://owlgraphic.com/owlcarousel/index.html
+
+
+-- jQuery vTicker是一个轻量级数据动态垂直滚动效果插件
+https://github.com/richhollis/vticker
+http://richhollis.github.io/vticker/
