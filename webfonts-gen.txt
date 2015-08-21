@@ -1,0 +1,2 @@
+http://www.fontsquirrel.com/tools/webfont-generator
+生成web字体，特别好用
