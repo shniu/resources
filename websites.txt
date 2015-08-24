@@ -19,3 +19,11 @@ https://icomoon.io/app/#/select
 
 -- bugs fix
 http://stackoverflow.com/questions/13377373/shim-twitter-bootstrap-for-requirejs
+
+
+-- jsdom: A JavaScript implementation of the WHATWG DOM and HTML standards, for use with io.js 
+https://github.com/tmpvar/jsdom
+
+
+-- ghost py: Webkit based scriptable web browser for python
+https://github.com/jeanphix/Ghost.py
