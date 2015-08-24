@@ -11,3 +11,11 @@ http://www.css3generator.in/default.html
 
 -- css 字体样式
 http://www.divcss5.com/rumen/r75.shtml
+
+
+
+-- 图标字体
+https://icomoon.io/app/#/select
+
+-- bugs fix
+http://stackoverflow.com/questions/13377373/shim-twitter-bootstrap-for-requirejs
