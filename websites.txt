@@ -27,3 +27,9 @@ https://github.com/tmpvar/jsdom
 
 -- ghost py: Webkit based scriptable web browser for python
 https://github.com/jeanphix/Ghost.py
+
+
+
+-- PhantomJS is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG. 是一个基于 WebKit 的服务器端 JavaScript API。它全面支持web而不需浏览器支持，其快速，原生支持各种Web标准： DOM 处理, CSS 选择器, JSON, Canvas, 和 SVG。 PhantomJS 可以用于 页面自动化 ， 网络监测 ， 网页截屏 ，以及 无界面测试 等。
+http://phantomjs.org/
+http://www.tuicool.com/articles/beeMNj/
