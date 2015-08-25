@@ -35,5 +35,9 @@ http://phantomjs.org/
 http://www.tuicool.com/articles/beeMNj/
 
 
+-- django
+https://github.com/tomchristie/django-rest-framework
+
+
 -- casperjs is a navigation scripting & testing utility for PhantomJS and SlimerJS written in Javascript 
 http://docs.casperjs.org/en/latest/index.html
