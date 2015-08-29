@@ -12,3 +12,9 @@ http://usablica.github.io/front-end-frameworks/compare.html?v=2.0
 
 -- node.js
 https://cnodejs.org/getstart
+
+
+====  一个3D库，js写的  =====
+github 地址：https://github.com/mrdoob/three.js
+学习教程：http://www.hewebgl.com/article/articledir/1
+demo地址：http://www.webglchina.cn/three.js/examples/#canvas_lines
