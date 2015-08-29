@@ -6,3 +6,35 @@
 <=== start
 
 <=== end
+
+
+--- grunt usage ----
+
+<=== start
+通配符：
+
+   *  匹配任意字符，但是不匹配/
+   ?  匹配单个任意字符，但是不匹配/
+   ** 匹配任意字符，包括/
+   {} ,分割的任意一个，{a,b}.js  则匹配a.js 和 b.js
+   !  对命中的模式取反
+
+
+   copy
+
+
+
+   clean
+
+filter选项：
+   a、filter做过滤
+   b、filter: function(filepath){return ();}
+
+dot选项：
+   dot  true表示可以命中.开头的文件
+
+matchBase:
+   true 表示只匹配路径的base name
+
+expand：
+  true 表示要动态处理src到dest的文件映射
