@@ -5,6 +5,7 @@ https://github.com/rockallite/generator-django-webapp
 
 -- grunt wairedep
 http://stephenplusplus.github.io/grunt-wiredep/
+https://github.com/taptapship/wiredep#configuration
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ end url ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
