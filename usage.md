@@ -37,8 +37,9 @@ With a tabbed document interface, PDF export, a built-in image uploader, session
 > 我的引用
 我的引用
 
-** 这个是粗体 **
-* 这个是斜体 *
+**这个是粗体**
+
+*这个是斜体*
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
