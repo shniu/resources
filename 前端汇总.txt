@@ -18,3 +18,9 @@ https://cnodejs.org/getstart
 github 地址：https://github.com/mrdoob/three.js
 学习教程：http://www.hewebgl.com/article/articledir/1
 demo地址：http://www.webglchina.cn/three.js/examples/#canvas_lines
+
+
+
+## loading动画
+http://www.htmleaf.com/jQuery/Layout-Interface/201412311046.html
+http://www.htmleaf.com/html5/html5donghua/201501071121.html
